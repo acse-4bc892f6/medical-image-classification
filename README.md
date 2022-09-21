@@ -1,3 +1,3 @@
-# ml-medical-image-classification
+# Classify medical images using LeNet-5 neural network structure
 
-Implemented LeNet-5 neural network structure to classify medical images from Kaggle medical MNIST dataset.
+Implemented the LeNet-5 neural network structure to classify medical images from Kaggle medical MNIST dataset.
